@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknotes_messanger"]=self["webpackChunknotes_messanger"]||[]).push([[778],{5778:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var s=function(){var e=this,t=e._self._c;return t("div")},r=[],u={props:{},comments:{},data(){return{test:"yes"}},created(){},mounted(){},methods:{}},c=u,a=n(1001),o=(0,a.Z)(c,s,r,!1,null,"17126cc8",null),l=o.exports}}]);
+//# sourceMappingURL=778.f49eab1c.js.map
